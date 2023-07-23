@@ -1,0 +1,4 @@
+plt.figure(figsize=(10,8))
+sns.countplot(x="Gender",data=burnoutDF,palette="magma")
+plt.title("Plot Distributon of Gender")
+plt.show()
