@@ -97,15 +97,3 @@ test_r2=r2_score(Y_test,test_pred_adaboost)
 #Accuracy score
 print("Accuracy score of train data:"+str(round(100*train_r2,4))+"%")
 print("Accuracy score of test data:"+str(round(100*test*r2,4))+"%")
-
-
-
-
-
-
-
-
-
-
-
-p
